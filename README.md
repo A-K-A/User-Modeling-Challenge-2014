@@ -41,4 +41,9 @@ https://www.dropbox.com/s/4arx3qtvhb4kczw/UserRatings(for%20evaluation).csv
 Predict the rating the user is likely to give the corresponding event.
 
 
+OUTPUT: The CSV file, in which the first column should contain the User ID, the second should contain the Event ID and the third should contain the rating that you predict the user will give to that event.
+
+
+USER_ID, EVENT_ID, RATINGS
+
 
